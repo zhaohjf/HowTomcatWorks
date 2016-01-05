@@ -16,7 +16,7 @@
 	<classpathentry kind="lib" path="lib/naming-common.jar"/>
 	<classpathentry kind="lib" path="lib/naming-factory.jar"/>
 	<classpathentry kind="lib" path="lib/naming-resources.jar"/>
-	<classpathentry kind="lib" path="lib/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/servlet.jar" sourcepath="D:/Tools/tomcat/apache-tomcat-8.0.30-src/java"/>
 	<classpathentry kind="lib" path="lib/tomcat-util.jar"/>
 	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
 	<classpathentry kind="lib" path="lib/xmlParserAPIs.jar"/>
